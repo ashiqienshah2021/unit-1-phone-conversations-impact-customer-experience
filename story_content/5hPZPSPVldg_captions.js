@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.55.25975.0%0D%0A%0D%0A00:00:00.080%20--%3E%2000:00:03.472%0D%0AWould%20phone%20also%20be%20a%20communication%20and%20marketing%20channel?%0D%0A%0D%0A"}')
